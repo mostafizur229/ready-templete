@@ -1,0 +1,31 @@
+/* always need this code start */
+
+html{
+    scroll-behavior: smooth;
+    background-color: #fafafa;
+    font-size: 62.5%;
+}
+
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    outline: 0;
+    font-weight: 400;
+}
+
+body{
+    background-color: #fff;
+    width: 120rem;
+    max-width: 100%;
+    margin: auto;
+    box-shadow: 0.1rem 0.1rem 0.1rem #c4c4c4, -0.1rem 0rem 0.1rem #c4c4c4;
+
+    /* font-family: 'Comforter', cursive; */
+    font-family: 'Josefin Sans', sans-serif;;
+}
+
+
+/* always need this code ends */
